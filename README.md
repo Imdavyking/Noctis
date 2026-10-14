@@ -1,6 +1,6 @@
 # Noctis — Private, Auditable USDC Payments on Arc
 
-Private payments infrastructure for [Arc](https://arc.network), Circle's stablecoin-native L1. Built for the Encode x Arc Hackathon.
+Private payments infrastructure for [Arc](https://arc.network), Circle's stablecoin-native L1.
 
 ## Problem
 
